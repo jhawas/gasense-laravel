@@ -1,0 +1,29 @@
+{
+  "name": "gasense-laravel",
+  "description": "gas marketing",
+  "main": "",
+  "authors": [
+    "normanaranez12@gmail.com"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "gas",
+    "marketer"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "AdminLTE": "admin-lte#^2.3.11",
+    "parallax.js": "^1.4.2",
+    "font-awesome": "^4.7.0",
+    "Ionicons": "ionicons#^2.0.1",
+    "swiper": "^3.4.1"
+  }
+}

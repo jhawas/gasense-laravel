@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/Code/gasense-laravel":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/Code/gasense-laravel","hostpath":"/Users/aranez-norman/dev/gasense-laravel","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/aranez-norman/dev/gasense-laravel","disabled":false,"__vagrantfile":true}}}
