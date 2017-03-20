@@ -8,7 +8,7 @@ class Skill extends Model
 {
 
 	protected $fillable = [
-        'title', 'description'
+        'title', 'description', 'skill_category_id'
     ];
 
     public function category()

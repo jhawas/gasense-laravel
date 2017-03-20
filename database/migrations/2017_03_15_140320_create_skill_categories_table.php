@@ -17,7 +17,6 @@ class CreateSkillCategoriesTable extends Migration
             $table->increments('id');
             $table->string('title');
             $table->string('description');
-            $table->integer('parent_id');
             $table->timestamps();
         });
     }
