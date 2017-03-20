@@ -18,4 +18,4 @@ mix.js('resources/assets/js/app.js', 'public/js')
    
    .sass('resources/assets/sass/admin-app.scss','public/css/admin-app.css')
    .copy('bower_components/AdminLTE/dist/img/*.*', 'public/img')
-   .copy('bower_components/AdminLTE/plugins/*/*', 'public/plugins');
+   // .copy('bower_components/AdminLTE/plugins/*/*', 'public/plugins');

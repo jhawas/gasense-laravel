@@ -28,7 +28,7 @@ class UsersTableSeeder extends Seeder
 		    ]
 		]);
     	
-    	for ($i=0; $i < 20; $i++) { 
+    	for ($i=0; $i < 19; $i++) { 
     		
     		$role = $i%(rand(1,2)) == 0 ? 'client' : 'technician';
 

@@ -13,8 +13,13 @@ require('./bootstrap');
  * or customize the JavaScript scaffolding to fit your unique needs.
  */
 
-Vue.component('example', require('./components/Example.vue'));
+
+// require('datatables.net-bs');
+
+import DataTable from 'datatables.net-bs';
 
 const app = new Vue({
     el: '#app'
 });
+
+  

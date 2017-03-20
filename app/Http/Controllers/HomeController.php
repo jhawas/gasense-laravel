@@ -28,6 +28,6 @@ class HomeController extends Controller
 
     public function signup()
     {
-        return view('frontend.pages.signup');
+        return view('frontend.signup');
     }
 }

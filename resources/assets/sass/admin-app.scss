@@ -5,3 +5,17 @@
 // admin
 @import "bower_components/AdminLTE/dist/css/AdminLTE";
 @import "bower_components/AdminLTE/dist/css/skins/_all-skins";
+@import "node_modules/datatables.net-bs/css/dataTables.bootstrap";
+
+.pagination-container {
+    margin: 20px 0;
+    .pagination {
+        margin: 0;
+    }
+    .pages {
+        text-align: left;
+    }
+    .page {
+        text-align: right;
+    }
+}

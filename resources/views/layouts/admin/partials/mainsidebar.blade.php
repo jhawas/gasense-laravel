@@ -42,7 +42,7 @@
             </a>
             <ul class="treeview-menu">
               <li>
-                  <a href="#">
+                  <a href="{{ route('admin.user') }}">
                     <i class="fa fa-circle-o"></i>
                     <span>List</span>
                     <span class="pull-right-container">
@@ -63,7 +63,7 @@
             </a>
             <ul class="treeview-menu">
               <li>
-                  <a href="#">
+                  <a href="{{ route('admin.skill.category') }}">
                     <i class="fa fa-circle-o"></i>
                     <span>Categories</span>
                     <span class="pull-right-container">
@@ -72,7 +72,7 @@
                   </a>
               </li>
               <li>
-                  <a href="#">
+                  <a href="{{ route('admin.skill') }}">
                     <i class="fa fa-circle-o"></i>
                     <span>Skills</span>
                     <span class="pull-right-container">
