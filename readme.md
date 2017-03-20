@@ -28,9 +28,9 @@
 
 #Credentials
 
-* Admin
+##Admin
 - email: admin@gasense.com
 - password: admin
-* Users
+##Users
 - email: select from generated emails in database
 - password: secret`
