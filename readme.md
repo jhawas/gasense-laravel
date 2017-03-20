@@ -9,6 +9,7 @@
 	- composer (https://getcomposer.org/)
 
 #Installation
+	
 	- Clone the file by running this on command line `git clone git@github.com:jhawas/gasense-laravel.git`
 	- Go to cloned directory by doing `cd gasense-laravel`
 	- run `composer install` inside the main directory via command line
@@ -18,6 +19,7 @@
 
 
 #Database Setup
+	
 	- Create database
 	- Go to `.env` file and setup credentials for database
 	- run `php artisan migrate` to craete all the tables
@@ -25,9 +27,10 @@
 
 
 #Credentials
+	
 	- Admin
 		- email: admin@gasense.com
 		- password: admin
-	-`Users`
+	- Users
 		- email: select from generated emails in database
 		- password: secret`
